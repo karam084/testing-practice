@@ -6,9 +6,7 @@ Test functions
 
 - javascript
 - Visual studio and github
-- Webpack
-- npm
-  -testing
+- testing
 
 ## Source code
 

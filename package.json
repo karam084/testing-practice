@@ -1,0 +1,22 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "Test functions",
+  "main": "stringfunction.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karam084/testing-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karam084/testing-practice/issues"
+  },
+  "homepage": "https://github.com/karam084/testing-practice#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
